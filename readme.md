@@ -1,4 +1,6 @@
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif"  height="50%" width="100%">
+<img align="center" src="https://d.furaffinity.net/art/nobumichi/1642035833/1642035831.nobumichi_kazz_skunkass_data_corrupt.gif"  height="50%" width="100%">
+<br>
+<br>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Satyam Singh Niranjan - aka [Satanarious]()
 
@@ -18,7 +20,7 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=satanarious&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-<img align="right" src="https://speed.cy/wp-content/uploads/2022/08/web-developmen-seo.gif"  height="auto" width="40%">
+<img align="right" src="https://64.media.tumblr.com/aa033f51bd2225bec9b213be7edaf2fa/tumblr_ok7c7oGd091u41beko3_1280.gif"  height="auto" width="40%">
 <br>
 
 ### Work Experience
