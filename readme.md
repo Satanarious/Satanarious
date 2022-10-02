@@ -1,6 +1,5 @@
 <img align="center" src="https://d.furaffinity.net/art/nobumichi/1642035833/1642035831.nobumichi_kazz_skunkass_data_corrupt.gif"  height="50%" width="100%">
-<br>
-<br>
+
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Satyam Singh Niranjan - aka [Satanarious]()
 
