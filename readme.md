@@ -2,10 +2,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Satyam Singh Niranjan - aka [Satanarious]()
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Satanarious.Satanarious">
-<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Last Commit&logo=github">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Satanarious.Satanarious"><img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Last Commit&logo=github"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
 
 
 
@@ -147,8 +144,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 
 ### :zap: GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
 
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
