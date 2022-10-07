@@ -11,7 +11,7 @@
 - 🎮 I usually play Valorant at night
 - 🎵 I usually listen to my music on spotify, checkout my playlists in the spotify section.
 - 🎸 I am currently learning to play the Guitar.
-- 🎓 I am looking to collaborate with other content creators.
+- 🎓 I am looking to collaborate with other developers.
 - 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
 - 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
 <br>
