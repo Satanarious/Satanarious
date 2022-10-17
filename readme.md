@@ -22,7 +22,7 @@
 <img align="right" src="https://64.media.tumblr.com/aa033f51bd2225bec9b213be7edaf2fa/tumblr_ok7c7oGd091u41beko3_1280.gif"  height="auto" width="40%">
 <br>
 
-### Work Experience
+### Work Experience <img src="https://onehack.us/uploads/default/original/3X/8/1/81cda3b52dff053a16ceadea9a5259d20e1cb513.gif" width=30px height=15px>
 
 In the overview below you will find my most recent work experience:
 
