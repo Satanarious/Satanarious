@@ -25,7 +25,7 @@
   <h3> Spotify 🎧 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
-[![spotify-recently-played](https://spotify-recently-played-readme.vercel.app/api?user=z6c9674gw1b8w43jtamr7ph1d&count=2&width=370&unique=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
+[![spotify-recently-played](https://spotify-recently-played-readme.vercel.app/api?user=z6c9674gw1b8w43jtamr7ph1d&count=2&width=350&unique=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
 
 
    </td>
