@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-  <td width=60%>
+  <td width=65%>
 <h3> I'm a Freelancer!!</h3>
     <ul>
 <li> 🎮 I usually play Valorant at night
