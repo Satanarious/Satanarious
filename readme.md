@@ -57,7 +57,7 @@ Author Url: [Satyam Singh Niranjan(Author Codespeedy)](https://www.codespeedy.co
 [**FOSSEE, IIT Bombay**](https://fossee.in/) • Fellowship \
 Languages/Tools: `Python`, `Qt`, `SQL`, `Git`, `Github`, `LaTeX` \
 Software: [Osdag](https://osdag.fossee.in/) \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](https://github.com/Satanarious/Osdag)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](https://github.com/Satanarious/Osdag)
 <br/>
 
 ### Connect with me :
