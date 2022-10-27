@@ -73,7 +73,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
     <td><a href=""><img align="left" alt="Satanarious#Moist | Valorant" title="Satanarious#Moist | Valorant" width=40px height=40px src="https://seeklogo.com/images/V/valorant-logo-3D72D9117F-seeklogo.com.png" /></a></td>
     <td><a href="https://stats.fm/satyam"><img align="left" alt="Satyam Singh Niranjan| Stats.fm" title="Satyam Singh Niranjan| Stats.fm" width=40px height=40px src="https://uptime-storage.s3.amazonaws.com/logos/2d09787bdcdbd41f1bb14e173f9e24a8.png" /></a></td>
     <td><a href="https://stash.games/users/Bitchproof"><img align="left" alt="Satyam Singh Niranjan| Stash" title="Satyam Singh Niranjan| Stash" width=40px height=40px src="https://imgur.com/FYYHLRy.png" /></a></td>
-    <td><a href="[https://myanimelist.net/profile/Bitchproof](https://myanimelist.net/profile/Bitchproof)"><img align="left" alt="Bitchproof | MyAnimeList" title="Bitchproof | MyAnimeList" width=70px height=60px src="https://i.imgur.com/KRit2SQ.png" /></a></td>
+    <td><a href="https://myanimelist.net/profile/Bitchproof"><img align="left" alt="Bitchproof | MyAnimeList" title="Bitchproof | MyAnimeList" width=70px height=60px src="https://i.imgur.com/KRit2SQ.png" /></a></td>
   </tr>
   <tr>
   <th>Youtube</th>
