@@ -5,15 +5,31 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=Satanarious.Satanarious"><img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Last Commit&logo=github"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
 
+<table>
+<tr>
+  <td width=60%>
+<h3> I'm a Freelancer!!</h3>
+    <ul>
+<li> 🎮 I usually play Valorant at night
+<li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
+<li> 🎸 I am currently learning to play the Guitar.
+<li> 🎓 I am looking to collaborate with other developers.
+<li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
+<li> 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
+<li> ➕ You can connect with me using the links in the 'Connect with me' section.
+<li> 🥼 You can look at my past experiences in the 'Work Experience' section.
+<li> 📜 Scroll down for more info about me.
+      </ul>
+    </td>
+  <td>
+  <h3> Spotify 🎧 </h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
+[![spotify-recently-played](https://spotify-recently-played-readme.vercel.app/api?user=z6c9674gw1b8w43jtamr7ph1d&count=2&width=370&unique=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
 
 
-### I'm a Freelancer!!
-- 🎮 I usually play Valorant at night
-- 🎵 I usually listen to my music on spotify, checkout my playlists in the spotify section.
-- 🎸 I am currently learning to play the Guitar.
-- 🎓 I am looking to collaborate with other developers.
-- 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
-- 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
+   </td>
+</table>
 <br>
 <br>
 <p align="center">
@@ -43,11 +59,6 @@ Languages & Technologies: `Python`, `Qt`, `SQL`, `Git`, `Github`, `LaTeX` \
 Software: [Osdag](https://osdag.fossee.in/) \
 Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](https://github.com/Satanarious/Osdag)
 <br/>
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
-
 
 ### Connect with me :
 <table border=2px>
