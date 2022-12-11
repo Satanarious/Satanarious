@@ -18,8 +18,6 @@
 <li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
 <li> 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
-<li> ➕ You can connect with me using the links in the 'Find Me Here' section.
-<li> 🥼 You can look at my past experiences in the 'Work Experience' section.
       </ul>
     </td>
   <td>
