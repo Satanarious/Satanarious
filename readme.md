@@ -11,19 +11,17 @@
 <h3> I'm a Nobody!!</h3>
     <ul>
 <li> 🎉 Fun fact about me: I was born in a car
-<li> 🎮 I usually play Valorant at night
-<li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
 <li> ⭐ Checkout my starred repositories <a href="https://github.com/Satanarious?tab=stars">here</a>.
-<li> 🎸 I am currently learning to play the Guitar.
-<li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
-<li> 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
       </ul>
+      <h3> What am I doing ❔ </h3>
+<a href="https://discord.com/users/342570431074795520"><img src="https://lanyard.cnrad.dev/api/342570431074795520?hideProfile=true" height=100px width=350px></a>
     </td>
   <td>
   <h3> Spotify 🎧 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
+
 [![spotify-recently-played](https://spotify-recently-played-readme.vercel.app/api?user=z6c9674gw1b8w43jtamr7ph1d&count=2&width=350&unique=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
 
    </td>
@@ -169,7 +167,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 
 ### :zap: GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="36.5%" />
 
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
