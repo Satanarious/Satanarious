@@ -15,7 +15,7 @@
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
       </ul>
       <h3> What am I doing ❔ </h3>
-<a href="https://discord.com/users/342570431074795520"><img src="https://lanyard.cnrad.dev/api/342570431074795520?hideProfile=true" height=100px width=350px></a>
+<a href="https://discord.com/users/342570431074795520"><img src="https://lanyard.cnrad.dev/api/342570431074795520?hideProfile=true&idleMessage=Nothing%20Doing!" height=100px width=350px></a>
     </td>
   <td>
   <h3> Spotify 🎧 </h3>
