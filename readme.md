@@ -11,11 +11,14 @@
 <h3> I'm a Nobody!!</h3>
     <ul>
 <li> 🎉 Fun fact about me: I was born in a car
+<li> 🎮 I usually play Valorant at night
+<li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
 <li> ⭐ Checkout my starred repositories <a href="https://github.com/Satanarious?tab=stars">here</a>.
+<li> 🎸 I am currently learning to play the Guitar.
+<li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
+<li> 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
       </ul>
-      <h3> What am I doing ❔ </h3>
-<a href="https://discord.com/users/342570431074795520"><img src="https://lanyard.cnrad.dev/api/342570431074795520?hideProfile=true&idleMessage=Nothing%20Doing!" height=100px width=350px></a>
     </td>
   <td>
   <h3> Spotify 🎧 </h3>
