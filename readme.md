@@ -2,10 +2,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Satyam Singh Niranjan - aka [Satanarious](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">
-<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">&nbsp;&nbsp;<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">&nbsp;&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
 
 <table>
 <tr>
