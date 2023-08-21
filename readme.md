@@ -1,9 +1,11 @@
 <img align="center" src="https://d.furaffinity.net/art/nobumichi/1642035833/1642035831.nobumichi_kazz_skunkass_data_corrupt.gif"  height="50%" width="100%">
 
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Satyam Singh Niranjan - aka [Satanarious](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Satanarious.Satanarious"><img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Last Commit&logo=github"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">
+<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
 
 <table>
 <tr>
@@ -37,7 +39,7 @@
 <img align="right" src="https://64.media.tumblr.com/aa033f51bd2225bec9b213be7edaf2fa/tumblr_ok7c7oGd091u41beko3_1280.gif"  height="auto" width="40%">
 <br>
 
-### Work Experience <img src="https://onehack.us/uploads/default/original/3X/8/1/81cda3b52dff053a16ceadea9a5259d20e1cb513.gif" width=30px height=15px>
+### Work Experience <img src="https://thumbs.gfycat.com/IndolentSnappyAmmonite-max-1mb.gif" width=30px height=30px style="vertical-align:bottom">
 
 In the overview below you will find my most recent work experience:
 
@@ -59,7 +61,7 @@ Software: [Osdag](https://osdag.fossee.in/) \
 Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](https://github.com/Satanarious/Osdag)
 <br/>
 
-### Find Me Here <img src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=12px height=18px>
+### Find Me Here <img src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=20px height=20px style="vertical-align:bottom">
 
 <table border=2px>
 <thead>
@@ -105,6 +107,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 <br>
 
 ### Languages : &nbsp;
+
 <table border=2px>
 <thead>
 <tr>
@@ -133,13 +136,13 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 </tbody>
 </table>
 
-
 ### Tools : &nbsp;
+
 <table border=2px>
 <thead>
 <tr>
     <td><img align="center" width=40px height=40px title="Blender" alt="Blender" src="https://www.computerhope.com/jargon/b/blender.png"></td>
-    <td><img align="center" width=40px height=40px title="Microsoft Office Suite" alt="Microsoft Office Suite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"></td>
+    <td><img align="center" width=40px height=40px title="Microsoft Office Suite" alt="Microsoft Office Suite" src="https://static.wikia.nocookie.net/logopedia/images/0/0e/Microsoft_365_%282022%29.svg/revision/latest/scale-to-width-down/200?cb=20221127115004"></td>
     <td><img align="center" width=40px height=40px title="Git" alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></td>
     <td><img align="center" width=40px height=40px title="Qt" alt="Qt" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png"></td>
     <td><img align="center" width=40px height=40px title="Flutter" alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"></td>
@@ -162,15 +165,11 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 </thead>
 </table>
 
-
-
-
 ---
-
 
 ### :zap: GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="36.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Satanarious&show_icons=true&theme=blue-green" alt="GitHub Stats" align="center" width="48%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satanarious&layout=compact&theme=blue-green&langs_count=6" alt="GitHub Top-Langs" align="center" width="36.5%" />
 
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
