@@ -1,8 +1,11 @@
 <img align="center" src="https://d.furaffinity.net/art/nobumichi/1642035833/1642035831.nobumichi_kazz_skunkass_data_corrupt.gif"  height="50%" width="100%">
 <h1> Hi there, I'm Satyam Singh Niranjan - aka <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Satanarious</h1>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">&nbsp;&nbsp;<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">&nbsp;&nbsp;<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
-
+<p align=center>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">
+<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/satanarious?label=Reddit Karma&logo=reddit">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Satanarious?label=Followers&logo=github">
+</p>
 <table>
 <tr>
   <td width=65%>
