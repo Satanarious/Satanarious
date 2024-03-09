@@ -15,10 +15,10 @@
 <li> 🎮 I usually play Valorant at night
 <li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
 <li> ⭐ Checkout my starred repositories <a href="https://github.com/Satanarious?tab=stars">here</a>.
-<li> 🎸 I am currently learning to play the Guitar.
+<li> 📱📲 I am currently working on <a href="https://github.com/Satanarious/YetAnotherWallpaperApp">YetAnotherWallpaperApp</a>.
 <li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
-<li> 🏄‍♀️ You'll usually find me lurking on reddit, discord or telegram.
+<li> 🔍 You'll can find me on various services labelled under the 'Find Me Here' section</a>.
       </ul>
     </td>
   <td>
@@ -38,7 +38,7 @@
 <img align="right" src="https://64.media.tumblr.com/aa033f51bd2225bec9b213be7edaf2fa/tumblr_ok7c7oGd091u41beko3_1280.gif"  height="auto" width="40%">
 <br>
 
-### Work Experience <img src="https://thumbs.gfycat.com/IndolentSnappyAmmonite-max-1mb.gif" width=30px height=30px style="vertical-align:bottom">
+### Work Experience
 
 In the overview below you will find my most recent work experience:
 
@@ -60,7 +60,7 @@ Software: [Osdag](https://osdag.fossee.in/) \
 Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](https://github.com/Satanarious/Osdag)
 <br/>
 
-### Find Me Here <img src="https://media.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=20px height=20px style="vertical-align:bottom">
+### Find Me Here
 
 <table border=2px>
 <thead>
