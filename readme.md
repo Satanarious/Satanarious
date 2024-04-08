@@ -15,7 +15,6 @@
 <li> 🎮 I usually play Valorant at night
 <li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
 <li> ⭐ Checkout my starred repositories <a href="https://github.com/Satanarious?tab=stars">here</a>.
-<li> 📱📲 I am currently working on <a href="https://github.com/Satanarious/YetAnotherWallpaperApp">YetAnotherWallpaperApp</a>.
 <li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
 <li> 🔍 You'll can find me on various services labelled under the 'Find Me Here' section</a>.
