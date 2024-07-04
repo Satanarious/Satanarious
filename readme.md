@@ -68,36 +68,38 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 <thead>
   <tr>
     <td><a href="mailto:satyam048niranjan@gmail.com"><img align="center" alt="Satyam Singh Niranjan | Gmail" title="Satyam Singh Niranjan | Gmail" width=50px height=30px src="assets/find_me_here/gmail.png" /></a></td>
-    <td><a href="https://www.goodreads.com/satyam_singh_niranjan"><img align="center" alt="Satyam Singh Niranjan | Goodreads" title="Satyam Singh Niranjan | Goodreads" width=50px height=50px src="assets/find_me_here/goodreads.png" /></a></td>
+    <td><a href="https://discordapp.com/users/342570431074795520"><img align="center" alt="Bitchproof | Discord" width=40px height=40px title="Bitchproof | Discord" src="assets/find_me_here/discord.png" /></a></td>
+    <td><a href="https://t.me/satanarious"><img align="center" alt="Satanarious | Telegram" width=40px height=40px title="Satanarious | Telegram" src="assets/find_me_here/telegram.png" /></a></td>
+    <td><a href="https://www.reddit.com/user/Satanarious"><img align="center" alt="Satanarious | Reddit" title="Satanarious | Reddit" width=40px height=40px src="assets/find_me_here/reddit.png" /></a></td>
+    <td><a href="https://in.pinterest.com/satyamsinghniranjan/"><img align="center" alt="Satyam Singh Niranjan | Pinterest" title="Satyam Singh Niranjan| Pinterest" width=40px height=40px src="assets/find_me_here/pinterest.png" /></a></td>
     <td><a href="https://www.youtube.com/channel/UCB-E4PHzu8mVvNa5fe21rsw/playlists"><img align="center" alt="Satyam Singh Niranjan | YouTube" title="Satyam Singh Niranjan | YouTube" width=50px height=50px src="assets/find_me_here/youtube.png" /></a></td>
     <td><a href="https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d"><img align="center" alt="Satyam Singh Niranjan | Spotify" title="Satyam Singh Niranjan | Spotify" width=40px height=40px src="assets/find_me_here/spotify.png" /></a></td>
-    <td><a href="https://www.reddit.com/user/Satanarious"><img align="center" alt="Satanarious | Reddit" title="Satanarious | Reddit" width=40px height=40px src="assets/find_me_here/reddit.png" /></a></td>
-    <td><a href="https://in.pinterest.com/satyamsinghniranjan/"><img align="center" alt="Satyam Singh Niranjan| Pinterest" title="Satyam Singh Niranjan| Pinterest" width=40px height=40px src="assets/find_me_here/pinterest.png" /></a></td>
-    <td><a href="https://discordapp.com/users/342570431074795520"><img align="center" alt="Bitchproof | Discord" width=40px height=40px title="Bitchproof | Discord" src="assets/find_me_here/discord.png" /></a></td>
-    <td><a href="https://steamcommunity.com/id/bitchproof/"><img align="center" alt="Bitchproof | Steam" title="Bitchproof | Steam" width=40px height=40px src="assets/find_me_here/steam.png" /></a></td>
+    <td><a href="https://www.goodreads.com/satyam_singh_niranjan"><img align="center" alt="Satyam Singh Niranjan | Goodreads" title="Satyam Singh Niranjan | Goodreads" width=50px height=50px src="assets/find_me_here/goodreads.png" /></a></td>
 
   </tr>
   <tr>
   <th>Email</th>
-  <th>Books</th>
-  <th>Youtube</th>
-  <th>Spotify</th>
+  <th>Discord</th>
+  <th>Telegram</th>
   <th>Reddit</th>
   <th>Pinterest</th>
-  <th>Discord</th>
-  <th>Steam</th>
+  <th>Youtube</th>
+  <th>Spotify</th>
+  <th>Books</th>
   </tr>
 </thead>
 </table>
 
 <table>
   <tr>
-        <td><a href="https://tracker.gg/valorant/profile/riot/Gangaputr%20Bhishm%231001/overview"><img align="center" alt="Gangaputra Bhism#1001 | Valorant" title="Gangaputra Bhishm#1001 | Valorant" width=40px height=40px src="assets/find_me_here/valorant.png" /></a></td>
-    <td><a href="https://stats.fm/satyam"><img align="center" alt="Satyam Singh Niranjan| Stats.fm" title="Satyam Singh Niranjan| Stats.fm" width=40px height=40px src="assets/find_me_here/stats.fm.svg" /></a></td>
-    <td><a href="https://stash.games/users/Bitchproof"><img align="center" alt="Satyam Singh Niranjan| Stash" title="Satyam Singh Niranjan| Stash" width=40px height=40px src="assets/find_me_here/stash.png" /></a></td>
+    <td><a href="https://steamcommunity.com/id/bitchproof/"><img align="center" alt="Bitchproof | Steam" title="Bitchproof | Steam" width=40px height=40px src="assets/find_me_here/steam.png" /></a></td>
+    <td><a href="https://tracker.gg/valorant/profile/riot/Gangaputr%20Bhishm%231001/overview"><img align="center" alt="Gangaputra Bhism#1001 | Valorant" title="Gangaputra Bhishm#1001 | Valorant" width=40px height=40px src="assets/find_me_here/valorant.png" /></a></td>
+    <td><a href="https://stats.fm/satyam"><img align="center" alt="Satyam Singh Niranjan | Stats.fm" title="Satyam Singh Niranjan | Stats.fm" width=40px height=40px src="assets/find_me_here/stats.fm.svg" /></a></td>
+    <td><a href="https://stash.games/users/Bitchproof"><img align="center" alt="Satyam Singh Niranjan | Stash" title="Satyam Singh Niranjan | Stash" width=40px height=40px src="assets/find_me_here/stash.png" /></a></td>
     <td><a href="https://myanimelist.net/profile/Bitchproof"><img align="center" alt="Bitchproof | MyAnimeList" title="Bitchproof | MyAnimeList" width=70px height=60px src="assets/find_me_here/mal.png" /></a></td>
     </tr>
   <tr>
+    <th>Steam</th>
     <th>Valorant</th>
     <th>Stats.fm</th>
     <th>Stash</th>
