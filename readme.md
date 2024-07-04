@@ -26,7 +26,7 @@
   <td>
   <h3> Spotify 🎧 </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=z6c9674gw1b8w43jtamr7ph1d&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![spotify-recently-played](https://spotify-recently-played-readme.vercel.app/api?user=z6c9674gw1b8w43jtamr7ph1d&count=2&width=350&unique=true)](https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d)
 
@@ -44,7 +44,7 @@
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" style="padding:10px" height="94px" width="94px" alt="Codespeedy Technologies Pvt. Ltd." src="assets/work_experience/codespeedy.png"/>](https://www.codespeedy.com/)
+[<img align="left" style="padding:10px" height="100px" width="100px" alt="Codespeedy Technologies Pvt. Ltd." src="assets/work_experience/codespeedy.png"/>](https://www.codespeedy.com/)
 
 **Python Developer** \
 [**Codespeedy Technologies Pvt Ltd.**](https://www.codespeedy.com/) • Internship \
@@ -53,7 +53,7 @@ Author Url: [Satyam Singh Niranjan(Author Codespeedy)](https://www.codespeedy.co
 <br/>
 <br/>
 
-[<img align="left" style="padding:10px" height="94px" width="94px" alt="FOSSEE" title="FOSSEE" src="assets/work_experience/fossee.png"/>](https://fossee.in/)
+[<img align="left" style="padding:10px" height="100px" width="100px" alt="FOSSEE" title="FOSSEE" src="assets/work_experience/fossee.png"/>](https://fossee.in/)
 
 **Junior Software Developer** \
 [**FOSSEE, IIT Bombay**](https://fossee.in/) • Fellowship \
@@ -92,7 +92,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
 
 <table>
   <tr>
-        <td><a href="https://strats.gg/valorant/stats/J%C3%B6rmungandr%23saanp/overview"><img align="center" alt="Jörmungandr#saanp | Valorant" title="Jörmungandr#saanp | Valorant" width=40px height=40px src="assets/find_me_here/valorant.png" /></a></td>
+        <td><a href="https://tracker.gg/valorant/profile/riot/Gangaputr%20Bhishm%231001/overview"><img align="center" alt="Gangaputra Bhism#1001 | Valorant" title="Gangaputra Bhishm#1001 | Valorant" width=40px height=40px src="assets/find_me_here/valorant.png" /></a></td>
     <td><a href="https://stats.fm/satyam"><img align="center" alt="Satyam Singh Niranjan| Stats.fm" title="Satyam Singh Niranjan| Stats.fm" width=40px height=40px src="assets/find_me_here/stats.fm.svg" /></a></td>
     <td><a href="https://stash.games/users/Bitchproof"><img align="center" alt="Satyam Singh Niranjan| Stash" title="Satyam Singh Niranjan| Stash" width=40px height=40px src="assets/find_me_here/stash.png" /></a></td>
     <td><a href="https://myanimelist.net/profile/Bitchproof"><img align="center" alt="Bitchproof | MyAnimeList" title="Bitchproof | MyAnimeList" width=70px height=60px src="assets/find_me_here/mal.png" /></a></td>
