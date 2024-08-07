@@ -15,8 +15,8 @@
 <h3> I'm a Nobody!!</h3>
     <ul>
 <li> 🎉 Fun fact about me: I was born in a car
-<li> 🎮 I usually play Valorant at night
-<li> 🎵 Checkout my playlists by clicking the 'Spotify 🎧' section embeds.
+<li> 🎮 Checkout what games I play <a href="https://stash.games/users/Bitchproof">here</a>
+<li> 🎵 Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/z6c9674gw1b8w43jtamr7ph1d">here</a>.
 <li> ⭐ Checkout my starred repositories <a href="https://github.com/Satanarious?tab=stars">here</a>.
 <li> 🎓 I am looking to collaborate with other developers.
 <li> 👩‍💻 I like exploring/discovering FOSS,Tech Communities, Mod Communities.
