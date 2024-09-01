@@ -105,7 +105,7 @@ Featured Projects: [Osdag3](https://github.com/Satanarious/Osdag3), [Osdag](http
     <th>Stats.fm</th>
     <th>Stash</th>
     <th>MAL</th>
-    <th>Hardcover</th>
+    <th>Books</th>
     </tr>
   </table>
 
