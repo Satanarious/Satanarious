@@ -1,4 +1,4 @@
-<img align="center" src="assets/gifs/banner.gif"  height="50%" width="100%">
+<img align="center" src="assets/gifs/banner.gif"  height="300px" width="100%">
 <h1> Hi there, I'm Satyam Singh Niranjan - aka <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Satanarious</h1>
 
 
