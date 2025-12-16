@@ -4,7 +4,7 @@
 
 <p align=center>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Satanarious.Satanarious">
-<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?label=Profile Last Updated&logo=github">
+<img src="https://img.shields.io/github/last-commit/Satanarious/Satanarious?logo=github">
 <img alt="User Since" src="https://img.shields.io/badge/User_Since-August_23,_2018-blue?logo=github">
 <img alt="GitHub followers" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsatanarious&query=%24.followers&logo=github&label=Followers&color=c038d5">
 <img alt="Most Stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FSatanarious%2FTranslucentFlyoutsConfig&query=%24.stargazers_count&logo=polestar&label=Most%20Stars&color=ffdf00">
@@ -35,15 +35,21 @@
 <br>
 <br>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=satanarious&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=satanarious">
 </p>
-<img align="right" src="assets/gifs/controllers.gif"  height="auto" width="40%">
+
 <br>
+
+### Join My Group
+<a href="https://t.me/BeyondBytes048"><img src="https://files.catbox.moe/9b5v9p.png" width=100%></a>
+__Beyond Bytes__ is a place where Anime, Movies, TV, Coding, Comics, Manga, Manhwa, Manhua, Wallpapers, Tech, Music, Windows, Mac, Linux, Android, iOS Discussions take place. Join my telegram community <a href="https://t.me/BeyondBytes048">here</a> to be part of this awesome space.Its a place where curiosity meets creativity — we talk, share, and connect across all kinds of topics you love!Dive into a community that celebrates everything from art to tech, stories to soundtracks. Whether you’re here to chat, compete, or just vibe — there’s a space for you.Because it’s fun, friendly, and fresh.
+You’ll meet like-minded people, join interesting discussions, and take part in exciting challenges and giveaways — all while keeping it chill and respectful.
+
 
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
-
+<img align="right" src="assets/gifs/controllers.gif"  height="auto" width="40%">
 [<img align="left" style="padding:10px" height="100px" width="100px" alt="Codespeedy Technologies Pvt. Ltd." src="assets/work_experience/codespeedy.png"/>](https://www.codespeedy.com/)
 
 **Python Developer** \
